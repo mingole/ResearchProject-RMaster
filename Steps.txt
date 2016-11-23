@@ -1,0 +1,12 @@
+Clone repository to local file system
+
+ADD FILES:
+
+git add .
+git commit -m "Add existing file"
+git push origin your-branch
+
+REMOVE FILES:
+git rm file1.txt
+git commit -m "remove file1.txt"
+Note: This will remove files from both local repo and git
