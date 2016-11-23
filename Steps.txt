@@ -10,3 +10,6 @@ REMOVE FILES:
 git rm file1.txt
 git commit -m "remove file1.txt"
 Note: This will remove files from both local repo and git
+
+#clone git repo 
+git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
